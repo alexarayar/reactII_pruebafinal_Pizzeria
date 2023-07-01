@@ -1,0 +1,38 @@
+[
+    {
+      "desc": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda. El término pizza napoletana, por su importancia histórica o regional, se emplea en algunas zonas como sinónimo de pizza tonda.",
+      "id": "P001",
+      "img": "https://cdn0.recetasgratis.net/es/posts/5/2/6/pizza_napolitana_32625_600.webp",
+      "ingredients": ["mozzarella", "tomates", "jamón", "orégano"],
+      "name": "La Napo",
+      "price": 5950,
+      "amount": 1
+    },
+    {
+      "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+      "id": "P002",
+      "img": "https://i1.wp.com/irecetasfaciles.com/wp-content/uploads/2019/01/pizza-con-salami-chorizo-beacon.jpg?fit=900%2C786&ssl=1",
+      "ingredients": ["mozzarella", "tomates", "jamón", "choricillo"],
+      "name": "Españolisima",
+      "price": 7250,
+      "amount": 1
+    },
+    {
+      "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+      "id": "P003",
+      "img": "https://img.cocinarico.es/2020-01/pizza-salami-1.webp",
+      "ingredients": ["mozzarella", "tomates", "salame", "orégano"],
+      "name": "Salamin",
+      "price": 15990,
+      "amount": 1
+    },
+    {
+      "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+      "id": "P004",
+      "img": "https://recetinas.com/wp-content/uploads/2022/11/Pizza-cuatro-estaciones-1200x799.jpg.webp",
+      "ingredients": ["mozzarella", "salame", "aceitunas", "champiñones"],
+      "name": "4 Estaciones de Vivaldi",
+      "price": 12590,
+      "amount": 1
+    }
+  ]
